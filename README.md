@@ -15,7 +15,7 @@ This Python project is a simple user authentication system. It includes a `User`
 
 To install the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/username/projectname.git`
+1. Clone the repository: `https://github.com/DarwinRuiz/decorated-basic-security.git`
 2. Navigate into the project directory: `cd decorated-basic-security`
 
 ## Usage
